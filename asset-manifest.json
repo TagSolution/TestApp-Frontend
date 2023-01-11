@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TagSolution/TestApp-Frontend/static/css/main.078f50b0.css",
-    "main.js": "/TagSolution/TestApp-Frontend/static/js/main.7c9afc8d.js",
-    "index.html": "/TagSolution/TestApp-Frontend/index.html",
-    "main.078f50b0.css.map": "/TagSolution/TestApp-Frontend/static/css/main.078f50b0.css.map",
-    "main.7c9afc8d.js.map": "/TagSolution/TestApp-Frontend/static/js/main.7c9afc8d.js.map"
+    "main.css": "/TestApp-Frontend/static/css/main.078f50b0.css",
+    "main.js": "/TestApp-Frontend/static/js/main.7c9afc8d.js",
+    "index.html": "/TestApp-Frontend/index.html",
+    "main.078f50b0.css.map": "/TestApp-Frontend/static/css/main.078f50b0.css.map",
+    "main.7c9afc8d.js.map": "/TestApp-Frontend/static/js/main.7c9afc8d.js.map"
   },
   "entrypoints": [
     "static/css/main.078f50b0.css",
