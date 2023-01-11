@@ -6,7 +6,7 @@ function App() {
 
 	// Fetch API:
 	useEffect(() => {
-		const urlData = axios
+		axios
 			.get("http://ec2-52-91-153-74.compute-1.amazonaws.com:8080/test/hola")
 			.then((res) => {
 				const response = res.data;
