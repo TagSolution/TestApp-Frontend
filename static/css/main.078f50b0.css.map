@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.078f50b0.css","mappings":"AAAA,EAIC,kBAAmB,CADnB,qBAAsB,CAFtB,QAAS,CACT,SAGD","sources":["index.css"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n\tbackground: #fafafa;\n}\n"],"names":[],"sourceRoot":""}
