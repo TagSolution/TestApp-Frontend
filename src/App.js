@@ -7,7 +7,7 @@ function App() {
 	// Fetch API:
 	useEffect(() => {
 		axios
-			.get("http://ec2-52-91-153-74.compute-1.amazonaws.com:8080/test/hola")
+			.get("https://testapp-tag.herokuapp.com/test/hola")
 			.then((res) => {
 				const response = res.data;
 				setApiResponse(response);
