@@ -4,3 +4,46 @@
 	box-sizing: border-box;
 	background: #fafafa;
 }
+.App {
+	height: 60vh;
+	width: 100%;
+}
+.title {
+	padding-top: 2rem;
+	text-align: center;
+}
+.aws-container {
+	margin: 5rem auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+.aws-input {
+	margin-bottom: 5rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.aws-input input {
+	border: 1px solid lightgray;
+	border-radius: 0.35rem;
+	padding: 0.2rem 0.4rem;
+	cursor: pointer;
+	transition: 0.2s linear all;
+}
+.aws-input input:hover {
+	box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.35);
+}
+.aws-input button {
+	padding: 0.3rem 0.5rem;
+	border: 1px solid lightgray;
+	outline: none;
+	letter-spacing: 0.5px;
+	cursor: pointer;
+	transition: 0.3s linear all;
+}
+.aws-container button:hover {
+	border: 1px solid crimson;
+	color: crimson;
+}
